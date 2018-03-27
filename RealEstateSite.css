@@ -1,0 +1,43 @@
+#main_header{
+  font-family: 'Hammersmith One', sans-serif;
+  margin: 0px;
+  width: 30%;
+  font-size: 35px;
+  color: white;
+
+}
+#container{
+	margin: 0px;
+	padding-bottom: 400px;
+    background: url(https://images.unsplash.com/photo-1416331108676-a22ccb276e35?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=eef2ec2eb92ca06d154df5147fbae1fe&auto=format&fit=crop&w=1047&q=80);
+    background-position: center;
+    background-size: cover;
+   
+}
+#container2{
+	font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Barlow', sans-serif;
+
+}
+#container2 a{
+	text-decoration: none;
+}
+#mainLinks{
+	float: right;
+	width: 40%;
+
+   
+}
+#mainLinks a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Julius Sans One', sans-serif;
+	padding: 5px;
+
+}
+body{
+	margin: 0px;
+}
+html{
+	height: 100%;
+}
