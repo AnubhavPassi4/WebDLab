@@ -41,3 +41,23 @@ body{
 html{
 	height: 100%;
 }
+#calculator{
+     margin: 20px;
+     border: solid grey 2px;
+     padding: 40px;
+     font-family: 'Cabin', sans-serif;
+     background: rgb(220, 222, 226);
+     }
+
+#contactUs{
+  display: table;
+  margin: 0 auto;
+  border: grey 2px solid;
+  padding: 20px;
+  background:#e3ebf7;
+  
+}     
+#submitButton{
+  margin-top: 20px;
+  float: right;
+}
