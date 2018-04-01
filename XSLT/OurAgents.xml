@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="agents.xsl" type="text/xsl" ?>
+<collection>
+      <agent>
+            <name>Anubhav Passi</name>
+            <phone>5124862145</phone>
+            <emailid>anubhavpassi@gmail.com</emailid>
+      </agent>
+       <agent>
+            <name>Anmol Passi</name>
+            <phone>4514445876</phone>
+            <emailid>anmolpassi@gmail.com</emailid>
+      </agent>
+       <agent>
+            <name>Abhinav</name>
+            <phone>4526123654</phone>
+            <emailid>abhinav@gmail.com</emailid>
+      </agent>
+</collection>            
